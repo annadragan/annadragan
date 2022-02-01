@@ -1,6 +1,6 @@
 ### Hey, nice to see you 😎
 👋 Hi, I´m Anna and:
-- 🔭 I’m currently working on my Github Profil 
+- 🔭 I’m currently working on my Github Profil 😆🙃
 - 🌱 I’m currently learning HTML
 
 
