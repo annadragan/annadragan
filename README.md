@@ -1,7 +1,8 @@
 ### Hey, nice to see you 😎
-👋 Hi, I´m Anna and:
+👋 Hi, I´m Anna and I'm a creative problem solving enthusiast.
+
 - 🔭 I’m currently working on my Github Profil 😆🙃
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML, CSS, JS
 
 
 [![annadragan's github stats](https://github-readme-stats.vercel.app/api?username=annadragan)](https://github.com/anuraghazra/github-readme-stats)
