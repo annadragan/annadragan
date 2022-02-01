@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on my Github Profil 😆🙃
 - 🌱 I’m currently learning HTML, CSS, JS
+- I'm currently learning Web development 
 
 
 [![annadragan's github stats](https://github-readme-stats.vercel.app/api?username=annadragan)](https://github.com/anuraghazra/github-readme-stats)
