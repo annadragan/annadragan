@@ -4,6 +4,10 @@
 - 🌱 I'm currently learning Web development 🙃
 
 
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/-HTML-000?logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 
 [![annadragan's github stats](https://github-readme-stats.vercel.app/api?username=annadragan)](https://github.com/anuraghazra/github-readme-stats)
 
