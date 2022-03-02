@@ -2,7 +2,7 @@
 👋 I´m Anna and ...
 
 - 🌱 I'm currently learning Web development 🙃
-- ✏️ I’m currently learning more about React, TypeScript and MongoDB
+- ✏️ I’m currently learning more about React
 
 
 ### Languages & Tools
