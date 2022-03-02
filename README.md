@@ -4,10 +4,11 @@
 - 🌱 I'm currently learning Web development 🙃
 
 
-### Languages & Tools
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML-000?logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
+###Tools
 <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" align="left" width="40"></a>
 <img alt="GitHub" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202098codedevelopergithublogo-115590_115711.png" align="left" width="40"></a>
 
