@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently learning Web development 🙃
 
-(https://github.com/codingoak?tab=repositories)
+
 
 [![annadragan's github stats](https://github-readme-stats.vercel.app/api?username=annadragan)](https://github.com/anuraghazra/github-readme-stats)
 
