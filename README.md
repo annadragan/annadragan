@@ -1,4 +1,4 @@
-<p align="right"> > "No one knows what he can do till he tries"</p>
+<aside align="right"> "No one knows what he can do till he tries"</aside>
 
 ### Hey, nice to see you 😎
 👋 I´m Anna and ...
