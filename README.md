@@ -16,8 +16,7 @@
 <img alt="GitHub" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202098codedevelopergithublogo-115590_115711.png" align="left" width="40"></a>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annadragan)](https://github.com/annadragan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annadragan&show_icons=true&theme=radical)](https://github.com/annadragan/github-readme-stats)
 
 [![annadragan's github stats](https://github-readme-stats.vercel.app/api?username=annadragan)](https://github.com/anuraghazra/github-readme-stats)
 
