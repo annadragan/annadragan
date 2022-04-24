@@ -17,6 +17,8 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annadragan)](https://github.com/annadragan/github-readme-stats)
+
 [![annadragan's github stats](https://github-readme-stats.vercel.app/api?username=annadragan)](https://github.com/anuraghazra/github-readme-stats)
 
 
