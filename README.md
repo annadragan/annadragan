@@ -1,8 +1,9 @@
+> "No one knows what he can do till he tries"
+
 ### Hey, nice to see you 😎
 👋 I´m Anna and ...
 
 - 🌱 I'm currently learning Web development 🙃
-- ✏️ I’m currently learning more about React
 
 
 ### Languages & Tools
