@@ -1,7 +1,7 @@
 ><p align="right"> "No one knows what he can do till he tries"</p>
 
 ### Hey, nice to see you 😎
-👋 🌱 I´m Anna and I'm currently learning React 🙃
+👋 🌱 I´m Anna and I'm currently learning Java 🙃
 
 
 ### Languages & Tools
