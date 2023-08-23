@@ -3,7 +3,7 @@
 ### Hey, I'm Anna! 😎
 👋 🌱 On the path to becoming a Full Stack Developer, I've been learning programming for nearly two years. I'm enthusiastic about constantly learning new things – whether it's in human or technical languages. My goal: Creating outstanding user experiences and consistently growing in the world of code!  💻 🚀 🙃
 
-## Feel free to contact me on:
+#### Feel free to contact me on:
 [LinkedIn](https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed_updates-secondary_nav/) 👋
 
 ### Languages & Tools
