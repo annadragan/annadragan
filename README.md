@@ -1,7 +1,7 @@
 ><p align="right"> "No one knows what he can do till he tries"</p>
 
-### Hey, nice to see you 😎
-👋 🌱 I´m Anna and I'm currently learning Java 🙃
+### Hey, I'm Anna! 😎
+👋 🌱 On the path to becoming a Full Stack Developer, I've been learning programming for nearly two years. I'm enthusiastic about constantly learning new things – whether it's in human or technical languages. My goal: Creating outstanding user experiences and consistently growing in the world of code!  💻 🚀 🙃
 
 
 ### Languages & Tools
@@ -14,7 +14,6 @@
 <img alt="GitHub" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202098codedevelopergithublogo-115590_115711.png" align="left" width="40"></a>
 <a href="https://java.com/"><img alt="Java" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" align="left" width="40"></a>
 <a href="https://angular.io/"><img alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.png" align="left" width="40"></a>
-
 <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" align="left" width="40"></a>
 
 
