@@ -14,9 +14,9 @@
 <img alt="GitHub" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202098codedevelopergithublogo-115590_115711.png" align="left" width="40"></a>
 <a href="https://java.com/"><img alt="Java" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" align="left" width="40"></a>
 <a href="https://angular.io/"><img alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.png" align="left" width="40"></a>
-<a href="https://hybris.com/"><img alt="SAP Commerce" src="https://www.sap.com/dam/application/shared/logos/brands/brand_sap/72dpi/sap-logo.png" align="left" width="40"></a>
+
 <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" align="left" width="40"></a>
-<a href="https://commercesearch.io/"><img alt="Composable Storefront" src="https://commercesearch.io/wp-content/uploads/2022/06/CS_Logo_Color.svg" align="left" width="40"></a>
+
 
 [![annadragan's github stats](https://github-readme-stats.vercel.app/api?username=annadragan&show_icons=true&theme=react)](https://github.com/annadragan/github-readme-stats)
 
